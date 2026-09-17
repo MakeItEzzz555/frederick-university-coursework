@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    span {
+        display: inline-block;
+        width: 80px;
+        padding-bottom: 10px;
+    }
+
+    .topcorner {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color:rgb(0 204 255);
+        padding: 20px
+    }
+</style>
+
+<body>
+    <form action="" id="myForm">
+        <span class="span">Name:</span> <input type="text" name="name" id="name"> <br>
+        <span class="span">Surname:</span> <input type="text" name="surname" id="surname"><br>
+        <span class="span">POS:</span> <select name="pos" id="pos" onchange="posChange()">
+            <option value="0" selected disabled>Select POS...</option>
+            <option value="1">BSc CS</option>
+            <option value="1">BSc CmE</option>
+            <option value="2">MSc EE</option>
+            <option value="2">MSc EM</option>
+        </select><br>
+        <span class="span">Status:</span> <input type="text" id="status" disabled><br>
+        <span class="span">Email:</span> <input type="email" name="email" id="email"> <br>
+        <span class="span">Username:</span> <input type="text" name="username" id="username"><br>
+        <input type="button" name="clear" id="clear" value="Clear" onclick="clearAll()">
+        <input type="button" name="next" id="next" value="Next" onclick="checkForErrors()">
+    </form>
+    <div class="topcorner">
+        <h1>Number of Errors</h1>
+        <h2 id="errors" style="color: azure;text-align:center"></h2>
+    </div>
+</body>
+
+<script>
+    var usernameStart;
+
+    function posChange() {
+        var pos = document.getElementById("pos").value;
+        var status = document.getElementById("status");
+        if (pos == "1") {
+            status.value = "Undergraduate";
+            usernameStart = "st";
+        }
+        else if (pos == "2") {
+            status.value = "Postgraduate";
+            usernameStart = "pg";
+        }
+    }
+
+    function clearAll() {
+        document.getElementById("myForm").reset();
+    }
+
+    function checkForErrors() {
+        var numberOfErrors = 0;
+
+        var name = document.getElementById("name").value;
+        if (name == "") {
+            numberOfErrors = numberOfErrors + 1
+            alert("You need to input a name")
+        }
+
+        var surname = document.getElementById("surname").value;
+        if (surname == "") {
+            numberOfErrors = numberOfErrors + 1
+            alert("You need to input a surname")
+        }
+
+        var pos = document.getElementById("pos").value;
+        console.log(pos)
+        if (pos == "0") {
+            numberOfErrors = numberOfErrors + 1
+            alert("You need to select a POS")
+        }
+
+        var email = document.getElementById("email").value;
+        var emailDomain= email.split('@').pop();
+        if(emailDomain!="stud.fit.ac.cy" && emailDomain!="stud.frederick.ac.cy"){
+            numberOfErrors = numberOfErrors + 1
+            alert("Email domain not correct")
+        }
+
+        var username = document.getElementById("username").value;
+        if(username.substring(0, 2)!=usernameStart){
+            numberOfErrors = numberOfErrors + 1
+            alert("Username not correct")
+        }
+        document.getElementById("errors").innerHTML = numberOfErrors;
+
+    }
+</script>
+
+</html>

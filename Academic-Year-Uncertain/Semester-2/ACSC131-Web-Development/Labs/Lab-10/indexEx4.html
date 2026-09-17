@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise 4</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<style>
+table{
+    border:1px solid black;
+    
+}
+td,th{
+    border:1px solid black;
+}
+</style>
+<body>
+    <table>
+        <tr>
+            <th>Company</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Alfred Futterkiste</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Berglunds snabbkop</td>
+            <td>Sweden</td>
+        </tr>
+        <tr>
+            <td>Centro comercial moctezuma</td>
+            <td>Mexico</td>
+        </tr>
+        <tr>
+            <td>Ernst Hebrand</td>
+            <td>Austria</td>
+        </tr>
+        <tr>
+                <td>Island Trading</td>
+                <td>UK</td>
+            </tr>
+    </table>
+    <button id = "btn1">Hide</button><button id = "btn2">Unhide</button>
+</body>
+<script>
+$("#btn1").on("click",function(){
+    $("tr:odd").hide();
+});
+$("#btn2").on("click",function(){
+    $("tr:odd").show();
+});
+</script>
+</html>

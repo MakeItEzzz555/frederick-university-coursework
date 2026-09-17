@@ -1,0 +1,98 @@
+/* General styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-color: #f4f7f6;
+  color: #333;
+  padding: 0;
+  margin: 0;
+}
+
+/* Navbar Styles */
+nav {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #282c34;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1), 0px 2px 6px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  animation: navbar-slide-in 0.5s ease-out;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  transition: color 0.3s ease, transform 0.3s ease;
+  padding: 8px 16px;
+  border-radius: 4px;
+  position: relative;
+}
+
+/* Hover and active link styles */
+nav ul li a:hover {
+  color: #61dafb;
+  transform: scale(1.1);
+}
+
+nav ul li a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 3px;
+  background-color: #61dafb;
+  transition: width 0.3s ease, left 0.3s ease;
+  transform: translateX(-50%);
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+  left: 50%;
+}
+
+/* Navbar Slide-in Animation */
+@keyframes navbar-slide-in {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* Basic page styles */
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 2rem;
+  color: #333;
+  animation: fade-in 10s ease-out;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

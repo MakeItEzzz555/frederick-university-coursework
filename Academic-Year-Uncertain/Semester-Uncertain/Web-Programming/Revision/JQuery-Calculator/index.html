@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>jQuery Calculator Revision</title>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="script.js" defer></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    #calc {
+      background: #fff;
+      padding: 20px 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    input, select, button {
+      margin: 5px;
+      padding: 8px;
+      font-size: 1rem;
+    }
+    #result {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #333;
+    }
+    #hist {
+      margin-top: 15px;
+      list-style: none;
+      padding: 0;
+      color: #666;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <form id="calc">
+    <input id="a" type="number" step="any" placeholder="First number" required>
+    <select id="op">
+      <option value="+">+</option>
+      <option value="-">-</option>
+      <option value="*">*</option>
+      <option value="/">/</option>
+      <option value="%">%</option>
+    </select>
+    <input id="b" type="number" step="any" placeholder="Second number" required>
+    <button id="eq" type="submit">=</button>
+    <span id="result">Result appears here</span>
+    <ul id="hist"></ul>
+  </form>
+</body>
+</html>
