@@ -1,6 +1,6 @@
 # ACSC430 — Python programming
 
-Small independent exercises; historical source is preserved. Academic year is unestablished. Semester placement follows the migration evidence, not the publication machine or file timestamps.
+Small independent exercises; historical source is preserved. Classified as **Study Year 4, Semester 1** using the archive owner's course-number heuristic, not an independently verified university timetable. Calendar academic year remains unknown.
 
 ## Contents
 

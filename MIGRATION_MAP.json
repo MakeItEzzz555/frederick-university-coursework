@@ -1,5 +1,5 @@
 {
-  "policy": "No calendar academic year inferred. First-year semester contexts retained using report folder identities/hash links; publication/USB timestamps ignored.",
+  "policy": "Study year and semester use the archive owner's heuristic: 1xx/2xx/3xx/4xx map to study years 1/2/3/4, and course number suffix below 50 maps to Semester 1, above 50 to Semester 2, exactly 50 uncertain. No placement is registrar verified. Calendar years and courses without codes stay uncertain. Original classifications, paths, and source evidence are preserved in each entry.",
   "source_modifications": 0,
   "unit_definition": "Independent original folder/file or a lab sharing source and fixtures",
   "units": [
@@ -18,7 +18,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -35,7 +36,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -52,7 +54,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -69,7 +72,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -86,7 +90,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -103,7 +108,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -120,7 +126,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -137,7 +144,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -154,7 +162,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -171,7 +180,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -188,7 +198,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -205,7 +216,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -222,7 +234,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -239,7 +252,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -256,7 +270,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -273,7 +288,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -290,7 +306,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -307,7 +324,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -324,7 +342,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -341,7 +360,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -356,11 +376,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Files2",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/Files2",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Files2",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -375,11 +398,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/FilesLab",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/FilesLab",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/FilesLab",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -394,11 +420,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Assignments/HomeExam2",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Assignments/HomeExam2",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Assignments/HomeExam2",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -413,11 +442,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab4",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/Lab4",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab4",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -432,11 +464,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab4Ex3",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/Lab4Ex3",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab4Ex3",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -451,11 +486,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex1",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex1",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex1",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -470,11 +508,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex2",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex2",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Labs/Lab5Ex2",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -489,11 +530,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Revision/revex3",
+      "destination": "Academic-Year-1/Semester-2/ACSC183-Programming-II/Revision/revex3",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit exact original Windows-origin NewVOL path contains Frederick 1st Year/1stYearSem2/programming; course ACSC183 is recorded. Calendar academic year absent.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/Revision/revex3",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -510,11 +554,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex1b",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex1b",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex1b",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -531,11 +578,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex2b",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex2b",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex2b",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -552,11 +602,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex3b",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex3b",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Ex3b",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -573,11 +626,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise1",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise1",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise1",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -594,11 +650,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise2",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise2",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise2",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -615,11 +674,14 @@
       "academic_year": "Uncertain",
       "relative_year": "First year",
       "semester": "Semester-1",
-      "destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise3",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise3",
       "semester_confidence": "HIGH",
       "decision": "MIGRATE CURRENT GITHUB COPY",
-      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167\u2013M172). Course association comes from nearby lab sheet; calendar year unknown.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "evidence": "Saved normalized-source duplicate grouping links this canonical USB/GitHub exercise to a NewVOL/Frederick 1st Year/1stYearSem1 backup (M167–M172). Course association comes from nearby lab sheet; calendar year unknown.",
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise3",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -632,13 +694,19 @@
       "backup_alias_ids": [],
       "course": "ACSC110-Introductory-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC110-Introductory-Programming/Labs/Lab2Exercise4",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "First year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/Labs/Lab2Exercise4",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "ACSC110 nearby lab-sheet association recorded in Mac audit. No exact Semester-1 backup link for M247; adjacency alone is insufficient for semester placement.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC110-Introductory-Programming/Labs/Lab2Exercise4",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "cpp-data-structures-coursework",
@@ -657,7 +725,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "NewVOL/Frederick 1st Year/Rev3b.cpp has no semester/course code. Windows-origin backup does not establish chronology.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": null
     },
     {
       "repository": "bash-unix-coursework",
@@ -674,7 +743,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published shell revision source. No explicit module/semester evidence for these two original scripts; do not infer ACSC372 merely from the Mac additions in the same repository.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "bash-unix-coursework",
@@ -691,7 +761,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published shell revision source. No explicit module/semester evidence for these two original scripts; do not infer ACSC372 merely from the Mac additions in the same repository.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "bash-unix-coursework",
@@ -705,13 +776,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-03",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Labs/Lab-03",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "ACSC372 named Frederick folder and current README. Final2024/Final2025 are exam-practice labels, not proof of the student completion year or semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-03",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "bash-unix-coursework",
@@ -724,13 +801,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Assignments/String-Menu",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Assignments/String-Menu",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "ACSC372 named Frederick folder and current README. Final2024/Final2025 are exam-practice labels, not proof of the student completion year or semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Assignments/String-Menu",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "bash-unix-coursework",
@@ -745,13 +828,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Exam-Practice/Finals-Revision",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Exam-Practice/Finals-Revision",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "ACSC372 named Frederick folder and current README. Final2024/Final2025 are exam-practice labels, not proof of the student completion year or semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Exam-Practice/Finals-Revision",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "bash-unix-coursework",
@@ -764,13 +853,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Revision/Temperature-Conversion",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Revision/Temperature-Conversion",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "ACSC372 named Frederick folder and current README. Final2024/Final2025 are exam-practice labels, not proof of the student completion year or semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Revision/Temperature-Conversion",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -781,13 +876,19 @@
       "backup_alias_ids": [],
       "course": "ACSC271-Operating-Systems",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-03",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Second year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-2/Semester-2/ACSC271-Operating-Systems/Labs/Lab-03",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 2,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-03",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -798,13 +899,19 @@
       "backup_alias_ids": [],
       "course": "ACSC271-Operating-Systems",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-04",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Second year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-2/Semester-2/ACSC271-Operating-Systems/Labs/Lab-04",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 2,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-04",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -815,13 +922,19 @@
       "backup_alias_ids": [],
       "course": "ACSC271-Operating-Systems",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-06-Read-Mailslot",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Second year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-2/Semester-2/ACSC271-Operating-Systems/Labs/Lab-06-Read-Mailslot",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 2,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-06-Read-Mailslot",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -832,13 +945,19 @@
       "backup_alias_ids": [],
       "course": "ACSC271-Operating-Systems",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-06-Write-Mailslot",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Second year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-2/Semester-2/ACSC271-Operating-Systems/Labs/Lab-06-Write-Mailslot",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 2,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-06-Write-Mailslot",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -849,13 +968,19 @@
       "backup_alias_ids": [],
       "course": "ACSC271-Operating-Systems",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-07",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Second year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-2/Semester-2/ACSC271-Operating-Systems/Labs/Lab-07",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 2,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/Labs/Lab-07",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -870,13 +995,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-06",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Labs/Lab-06",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Explicit ACSC372 course in Mac report/current source layout. Grouped Lab 6/7 sources remain together to preserve shared fixture and process context. No semester year evidence.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-06",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "acsc271-operating-systems-labs",
@@ -891,13 +1022,19 @@
       "backup_alias_ids": [],
       "course": "ACSC372-System-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-07",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Third year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-3/Semester-2/ACSC372-System-Programming/Labs/Lab-07",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Explicit ACSC372 course in Mac report/current source layout. Grouped Lab 6/7 sources remain together to preserve shared fixture and process context. No semester year evidence.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 3,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/Labs/Lab-07",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "java-oop-coursework",
@@ -914,7 +1051,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -931,7 +1069,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -948,7 +1087,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -965,7 +1105,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -982,7 +1123,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -999,7 +1141,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "java-oop-coursework",
@@ -1016,7 +1159,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current coursework collection and its README establish exercise identity; semester/calendar academic year unavailable.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1033,7 +1177,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published small PHP/browser coursework. No direct course code or semester in current source evidence; keep module name generic.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1050,7 +1195,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published small PHP/browser coursework. No direct course code or semester in current source evidence; keep module name generic.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1067,7 +1213,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published small PHP/browser coursework. No direct course code or semester in current source evidence; keep module name generic.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1084,7 +1231,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published small PHP/browser coursework. No direct course code or semester in current source evidence; keep module name generic.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1101,7 +1249,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Windows-published small PHP/browser coursework. No direct course code or semester in current source evidence; keep module name generic.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "web-programming-labs",
@@ -1115,12 +1264,17 @@
       "course": "ACSC131-Web-Development",
       "academic_year": "Uncertain",
       "relative_year": "First year",
-      "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Assignments/Calculator",
-      "semester_confidence": "HIGH",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-1/Semester-1/ACSC131-Web-Development/Assignments/Calculator",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit original Windows-origin NewVOL/Frederick 1st Year/1stYearSem2/web Dev path and ACSC131 course classification; no calendar academic year.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Assignments/Calculator",
+      "previous_semester": "Semester-2",
+      "previous_semester_confidence": "HIGH",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "web-programming-labs",
@@ -1134,12 +1288,17 @@
       "course": "ACSC131-Web-Development",
       "academic_year": "Uncertain",
       "relative_year": "First year",
-      "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Labs/Lab-10",
-      "semester_confidence": "HIGH",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-1/Semester-1/ACSC131-Web-Development/Labs/Lab-10",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit original Windows-origin NewVOL/Frederick 1st Year/1stYearSem2/web Dev path and ACSC131 course classification; no calendar academic year.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Labs/Lab-10",
+      "previous_semester": "Semester-2",
+      "previous_semester_confidence": "HIGH",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "web-programming-labs",
@@ -1153,12 +1312,17 @@
       "course": "ACSC131-Web-Development",
       "academic_year": "Uncertain",
       "relative_year": "First year",
-      "semester": "Semester-2",
-      "destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Labs/Lab-08",
-      "semester_confidence": "HIGH",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-1/Semester-1/ACSC131-Web-Development/Labs/Lab-08",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac audit original Windows-origin NewVOL/Frederick 1st Year/1stYearSem2/web Dev path and ACSC131 course classification; no calendar academic year.",
-      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub"
+      "provenance": "Windows-origin historical NewVOL backup; migration source is current GitHub",
+      "study_year": 1,
+      "previous_destination": "Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/Labs/Lab-08",
+      "previous_semester": "Semester-2",
+      "previous_semester_confidence": "HIGH",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "web-programming-labs",
@@ -1173,13 +1337,19 @@
       ],
       "course": "ACSC476-Web-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC476-Web-Programming/Labs/calculator_lab8",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-2",
+      "destination": "Academic-Year-4/Semester-2/ACSC476-Web-Programming/Labs/calculator_lab8",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Current about.php/header/footer explicitly contain ACSC476 and Lab 8, corroborating Mac audit despite generic old README. No completion semester evidence. Original folder name retained for absolute URL paths.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC476-Web-Programming/Labs/calculator_lab8",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "react-learning-exercises",
@@ -1196,7 +1366,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "User explicitly identifies this Windows repository as a coursework collection; source has four small routing/context demos. No module code, completion year or semester established.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "react-learning-exercises",
@@ -1213,7 +1384,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "User explicitly identifies this Windows repository as a coursework collection; source has four small routing/context demos. No module code, completion year or semester established.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "react-learning-exercises",
@@ -1230,7 +1402,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "User explicitly identifies this Windows repository as a coursework collection; source has four small routing/context demos. No module code, completion year or semester established.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "react-learning-exercises",
@@ -1247,7 +1420,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "User explicitly identifies this Windows repository as a coursework collection; source has four small routing/context demos. No module code, completion year or semester established.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "python-programming-exercises",
@@ -1260,13 +1434,19 @@
       "backup_alias_ids": [],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab06-products",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab06-products",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab06-products",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1281,13 +1461,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex1",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex1",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex1",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1302,13 +1488,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex2",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex2",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex2",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1323,13 +1515,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex3",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex3",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex3",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1344,13 +1542,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex5",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex5",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex5",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1365,13 +1569,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex6",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex6",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex6",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1386,13 +1596,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex7",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1Ex7",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1Ex7",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1407,13 +1623,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1ex4",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab1ex4",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab1ex4",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1426,13 +1648,19 @@
       "backup_alias_ids": [],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab2Assign",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab2Assign",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab2Assign",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1445,13 +1673,19 @@
       "backup_alias_ids": [],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab3",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab3",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab3",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1464,13 +1698,19 @@
       "backup_alias_ids": [],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex1",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab4Ex1",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex1",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1485,13 +1725,19 @@
       ],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex2",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab4Ex2",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex2",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "python-programming-exercises",
@@ -1504,13 +1750,19 @@
       "backup_alias_ids": [],
       "course": "ACSC430-Python-Programming",
       "academic_year": "Uncertain",
-      "relative_year": "Uncertain",
-      "semester": "Semester-Uncertain",
-      "destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex3",
-      "semester_confidence": "LOW / UNCERTAIN",
+      "relative_year": "Fourth year",
+      "semester": "Semester-1",
+      "destination": "Academic-Year-4/Semester-1/ACSC430-Python-Programming/Labs/lab4Ex3",
+      "semester_confidence": "COURSE-CODE HEURISTIC / UNVERIFIED",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Mac reports associate these Frederick/Python exercises with ACSC430; some loose-file module associations are inferred. No explicit academic semester/year. The unrelated grid utility is excluded.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": 4,
+      "previous_destination": "Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/Labs/lab4Ex3",
+      "previous_semester": "Semester-Uncertain",
+      "previous_semester_confidence": "LOW / UNCERTAIN",
+      "previous_relative_year": "Uncertain",
+      "classification_basis": "Owner-specified numeric course-code heuristic; not a verified university timetable"
     },
     {
       "repository": "mips-assembly-coursework",
@@ -1529,7 +1781,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Frederick architecture context in Mac report and current README. Audit field says ACOE301 but published README says precise code not established; saved classifier assigned the code from a generic Assembly path. No direct corroboration, so use descriptive course name and uncertain semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "mips-assembly-coursework",
@@ -1550,7 +1803,8 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Frederick architecture context in Mac report and current README. Audit field says ACOE301 but published README says precise code not established; saved classifier assigned the code from a generic Assembly path. No direct corroboration, so use descriptive course name and uncertain semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     },
     {
       "repository": "mips-assembly-coursework",
@@ -1569,7 +1823,9 @@
       "semester_confidence": "LOW / UNCERTAIN",
       "decision": "MIGRATE CURRENT GITHUB COPY",
       "evidence": "Frederick architecture context in Mac report and current README. Audit field says ACOE301 but published README says precise code not established; saved classifier assigned the code from a generic Assembly path. No direct corroboration, so use descriptive course name and uncertain semester.",
-      "provenance": "Current verified GitHub; original machine/semester not inferred from storage"
+      "provenance": "Current verified GitHub; original machine/semester not inferred from storage",
+      "study_year": null
     }
-  ]
+  ],
+  "previous_policy": "No calendar academic year inferred. First-year semester contexts retained using report folder identities/hash links; publication/USB timestamps ignored."
 }

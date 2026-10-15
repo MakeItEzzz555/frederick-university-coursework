@@ -4,16 +4,17 @@ An archive of smaller Computer Science coursework from Frederick University: lab
 
 ## Navigation
 
-| Academic Year | Semester | Course | Contents | Primary Languages |
+Study Year indicates **degree level**, not a calendar academic year. The semester placement below is a heuristic supplied by the archive owner, not a registrar-verified schedule.
+
+| Study Year | Semester | Course | Contents | Primary Languages |
 | --- | --- | --- | --- | --- |
-| Uncertain | Semester 1 | [ACSC110 — Introductory programming](Academic-Year-Uncertain/Semester-1/ACSC110-Introductory-Programming/) | 6 units: Labs | C++ |
-| Uncertain | Semester 2 | [ACSC131 — Web development](Academic-Year-Uncertain/Semester-2/ACSC131-Web-Development/) | 3 units: Assignments, Labs | HTML / CSS / JavaScript |
-| Uncertain | Semester 2 | [ACSC183 — Programming II](Academic-Year-Uncertain/Semester-2/ACSC183-Programming-II/) | 8 units: Assignments, Labs, Revision | C++ |
-| Uncertain | Semester Uncertain | [ACSC110 — Introductory programming](Academic-Year-Uncertain/Semester-Uncertain/ACSC110-Introductory-Programming/) | 1 unit: Labs | C++ |
-| Uncertain | Semester Uncertain | [ACSC271 — Operating systems](Academic-Year-Uncertain/Semester-Uncertain/ACSC271-Operating-Systems/) | 5 units: Labs | C / C++ |
-| Uncertain | Semester Uncertain | [ACSC372 — System programming](Academic-Year-Uncertain/Semester-Uncertain/ACSC372-System-Programming/) | 6 units: Assignments, Exam-Practice, Labs, Revision | C / Bash |
-| Uncertain | Semester Uncertain | [ACSC430 — Python programming](Academic-Year-Uncertain/Semester-Uncertain/ACSC430-Python-Programming/) | 13 units: Labs | Python |
-| Uncertain | Semester Uncertain | [ACSC476 — Web programming](Academic-Year-Uncertain/Semester-Uncertain/ACSC476-Web-Programming/) | 1 unit: Labs | HTML / CSS / JavaScript / PHP |
+| Year 1 | Semester 1 | [ACSC110 — Introductory programming](Academic-Year-1/Semester-1/ACSC110-Introductory-Programming/) | 7 units: Labs | C++ |
+| Year 1 | Semester 1 | [ACSC131 — Web development](Academic-Year-1/Semester-1/ACSC131-Web-Development/) | 3 units: Assignments, Labs | HTML / CSS / JavaScript |
+| Year 1 | Semester 2 | [ACSC183 — Programming II](Academic-Year-1/Semester-2/ACSC183-Programming-II/) | 8 units: Assignments, Labs, Revision | C++ |
+| Year 2 | Semester 2 | [ACSC271 — Operating systems](Academic-Year-2/Semester-2/ACSC271-Operating-Systems/) | 5 units: Labs | C / C++ |
+| Year 3 | Semester 2 | [ACSC372 — System programming](Academic-Year-3/Semester-2/ACSC372-System-Programming/) | 6 units: Assignments, Exam-Practice, Labs, Revision | C / Bash |
+| Year 4 | Semester 1 | [ACSC430 — Python programming](Academic-Year-4/Semester-1/ACSC430-Python-Programming/) | 13 units: Labs | Python |
+| Year 4 | Semester 2 | [ACSC476 — Web programming](Academic-Year-4/Semester-2/ACSC476-Web-Programming/) | 1 unit: Labs | HTML / CSS / JavaScript / PHP |
 | Uncertain | Semester Uncertain | [Computer architecture — MIPS (code uncertain)](Academic-Year-Uncertain/Semester-Uncertain/Computer-Architecture-MIPS/) | 3 units: Labs | MIPS assembly |
 | Uncertain | Semester Uncertain | [Data structures — C++ (code uncertain)](Academic-Year-Uncertain/Semester-Uncertain/Data-Structures-Cpp/) | 20 units: Assignments, Exercises, Labs, Revision, Tutorials | C++ |
 | Uncertain | Semester Uncertain | [Introductory C++ revision (code uncertain)](Academic-Year-Uncertain/Semester-Uncertain/Introductory-Cpp-Revision/) | 1 unit: Revision | C++ |
@@ -24,9 +25,9 @@ An archive of smaller Computer Science coursework from Frederick University: lab
 
 ## Academic chronology and provenance
 
-No calendar academic year is established by the available reports. `Academic-Year-Uncertain` preserves that limitation. First-year Semester 1 and Semester 2 are retained where historical folder identity and duplicate-content evidence support them; other work stays in `Semester-Uncertain`.
+Courses numbered **1xx, 2xx, 3xx and 4xx** are classified as **Study Years 1–4**. Within each year, a course-number suffix **below 50** maps to Semester 1, and a suffix **above 50** maps to Semester 2. A course numbered exactly **x50** would remain semester-uncertain. This rule is a user-supplied organizing heuristic, not proof of Frederick University's official semester scheduling. **ACSC131** was previously archived in Semester 2 based on historical folders; its new Semester 1 placement follows the heuristic, with the previous evidence preserved in `MIGRATION_MAP.json`.
 
-NewVOL was a Windows-origin historical backup, even though it was inspected from a Mac. Storage location, backup timestamps and publication dates do not establish academic chronology. Arduino has separate context and remains outside this repository because no Frederick course association was established.
+Uncoded courses remain under `Academic-Year-Uncertain/Semester-Uncertain`. Calendar academic years are still not established by the available reports. Backup timestamps and publication dates are not academic chronology evidence. NewVOL was a Windows-origin backup inspected on a Mac. Arduino remains outside the repository because no Frederick course association was established.
 
 ## Working with the exercises
 

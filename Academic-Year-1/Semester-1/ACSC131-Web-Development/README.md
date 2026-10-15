@@ -1,6 +1,6 @@
 # ACSC131 — Web development
 
-Small independent exercises; historical source is preserved. Academic year is unestablished. Semester placement follows the migration evidence, not the publication machine or file timestamps.
+Small independent exercises; historical source is preserved. Classified as **Study Year 1, Semester 1** using the archive owner's course-number heuristic, not an independently verified university timetable. Calendar academic year remains unknown. Its previous Semester 2 archival classification is retained as original evidence in the repository migration map.
 
 ## Contents
 
