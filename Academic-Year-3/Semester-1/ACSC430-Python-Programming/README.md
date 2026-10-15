@@ -1,6 +1,6 @@
 # ACSC430 — Python programming
 
-Small independent exercises; historical source is preserved. Classified as **Study Year 4, Semester 1** using the archive owner's course-number heuristic, not an independently verified university timetable. Calendar academic year remains unknown.
+Small independent exercises; historical source is preserved. Archived under **Study Year 3, Semester 1** based on the archive owner's correction that all existing coursework predates the start of Study Year 4. This is an organizational placement and not proof of the exact year this course was taken; the semester assignment remains based on the numeric course-code heuristic. Calendar academic year remains unknown.
 
 ## Contents
 
